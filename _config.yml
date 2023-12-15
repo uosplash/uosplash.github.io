@@ -7,3 +7,8 @@ url: https://uosplash.github.io
 
 aux_links:
   Template Repository: https://github.com/uosplash/uosplash
+
+  plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
